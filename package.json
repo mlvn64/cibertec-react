@@ -2,7 +2,7 @@
   "name": "cibertec-react",
   "version": "0.1.0",
   "private": true,
-  "hompage":"https://mlvn64.github.io/cibertec-react",
+  "hompage":"https://mlvn64.github.io/cibertec-react2",
   "dependencies": {
     "@aspnet/signalr": "^1.1.4",
     "@reach/router": "^1.2.1",

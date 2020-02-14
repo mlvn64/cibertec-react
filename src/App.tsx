@@ -72,6 +72,7 @@ function Admin(props: IAdminProps) {
                 </li>
             </ul>
         </nav>
+        
 
         <div className="container-fluid">
             <div className="row">
